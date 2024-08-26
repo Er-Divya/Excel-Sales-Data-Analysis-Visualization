@@ -1,4 +1,4 @@
-# Excel-Transactions-Analysis-Visualization
+# Excel Sales data Analysis Visualization
 
 Project Overview:
 We need a dashboard that includes the following key metrics and
